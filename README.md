@@ -4,7 +4,17 @@
 
 **Journal:** Humanities and Social Sciences Communications
 
-**Corresponding author:** Kai Tian
+**Corresponding author:** Kai Tian, Shenzhen University of Information Technology, Shenzhen, Guangdong 518172, China
+&nbsp;&nbsp;·&nbsp;&nbsp;ORCID: [ORCID iD to be inserted] &nbsp;&nbsp;·&nbsp;&nbsp;E-mail: tian4756@163.com
+
+**Archived version of record:** Figshare, DOI: [10.6084/m9.figshare.XXXXXXX — to be inserted upon publication]
+**Development repository:** https://github.com/KaiTian4756/regional-innovation-capability-china
+**License:** CC BY 4.0 (see Section 6)
+
+> The Figshare DOI is the citable, permanently archived version of this deposit. The GitHub
+> repository mirrors the same contents and is used for version control and issue tracking.
+> Access to the GitHub repository is restricted during peer review and will be made public
+> once the manuscript is accepted; the Figshare record is public from the date of publication.
 
 ---
 
@@ -57,6 +67,16 @@ All terminology in these files follows the manuscript (Tables 1–5) exactly.
 
 All scripts read the CSV files in this repository and write outputs to
 `./verification_output/` (created at run time; not distributed).
+
+### Repository files
+
+| File | Description |
+|---|---|
+| `README.md` | This file: file inventory, variable definitions, reproduction instructions. |
+| `LICENSE` | CC BY 4.0 license text and the required attribution string. |
+
+In total the deposit contains 1 panel dataset, 6 result files, 3 Python scripts, and 2
+documentation/license files.
 
 ## 3. Variable definitions
 
@@ -140,5 +160,30 @@ Expected key values (as reported in the manuscript):
 
 ## 6. License
 
-The data and code are made available for peer-review and replication purposes.
-Suggested license: CC BY 4.0.
+The data and code in this deposit are released under the Creative Commons Attribution 4.0
+International License (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). You are free
+to share and adapt the material for any purpose, provided that appropriate credit is given,
+a link to the license is included, and any changes are indicated.
+
+## 7. Citation
+
+If you use these data or code, please cite the manuscript and the archived dataset:
+
+```
+Tian K. Evaluating Regional Innovation Capability in China: Capability Tiers, Spatial
+Patterns, Efficiency, and Constraints. Humanities and Social Sciences Communications
+(under review).
+
+Tian K. Data and code for "Evaluating Regional Innovation Capability in China: Capability
+Tiers, Spatial Patterns, Efficiency, and Constraints". Figshare. Dataset.
+https://doi.org/10.6084/m9.figshare.XXXXXXX
+```
+
+The DOI in the second entry will be activated upon publication. Until then, please cite the
+manuscript and reference this repository by its URL.
+
+## 8. Contact
+
+Questions about the data, the indicator construction, or the reproduction scripts should be
+addressed to the corresponding author (tian4756@163.com). Reproducibility problems can also
+be reported as an issue in the GitHub repository.
