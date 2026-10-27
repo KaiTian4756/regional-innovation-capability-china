@@ -2,19 +2,11 @@
 
 **Manuscript:** Evaluating Regional Innovation Capability in China: Capability Tiers, Spatial Patterns, Efficiency, and Constraints
 
-**Journal:** Humanities and Social Sciences Communications
-
 **Corresponding author:** Kai Tian, Shenzhen University of Information Technology, Shenzhen, Guangdong 518172, China
-&nbsp;&nbsp;·&nbsp;&nbsp;ORCID: [ORCID iD to be inserted] &nbsp;&nbsp;·&nbsp;&nbsp;E-mail: tian4756@163.com
+&nbsp;&nbsp;·&nbsp;&nbsp;ORCID: [ORCID iD to be inserted]
 
-**Archived version of record:** Figshare, DOI: [10.6084/m9.figshare.XXXXXXX — to be inserted upon publication]
 **Development repository:** https://github.com/KaiTian4756/regional-innovation-capability-china
 **License:** CC BY 4.0 (see Section 6)
-
-> The Figshare DOI is the citable, permanently archived version of this deposit. The GitHub
-> repository mirrors the same contents and is used for version control and issue tracking.
-> Access to the GitHub repository is restricted during peer review and will be made public
-> once the manuscript is accepted; the Figshare record is public from the date of publication.
 
 ---
 
@@ -174,16 +166,6 @@ Tian K. Evaluating Regional Innovation Capability in China: Capability Tiers, Sp
 Patterns, Efficiency, and Constraints. Humanities and Social Sciences Communications
 (under review).
 
-Tian K. Data and code for "Evaluating Regional Innovation Capability in China: Capability
-Tiers, Spatial Patterns, Efficiency, and Constraints". Figshare. Dataset.
-https://doi.org/10.6084/m9.figshare.XXXXXXX
 ```
 
-The DOI in the second entry will be activated upon publication. Until then, please cite the
-manuscript and reference this repository by its URL.
 
-## 8. Contact
-
-Questions about the data, the indicator construction, or the reproduction scripts should be
-addressed to the corresponding author (tian4756@163.com). Reproducibility problems can also
-be reported as an issue in the GitHub repository.
