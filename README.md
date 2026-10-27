@@ -3,9 +3,9 @@
 **Manuscript:** Evaluating Regional Innovation Capability in China: Capability Tiers, Spatial Patterns, Efficiency, and Constraints
 
 **Corresponding author:** Kai Tian, Shenzhen University of Information Technology, Shenzhen, Guangdong 518172, China
-&nbsp;&nbsp;·&nbsp;&nbsp;ORCID: [ORCID iD to be inserted]
+&nbsp;&nbsp;·&nbsp;&nbsp;ORCID: https://orcid.org/0000-0002-8884-9759
 
-**Development repository:** https://github.com/KaiTian4756/regional-innovation-capability-china
+**Data and code repository:** https://github.com/KaiTian4756/regional-innovation-capability-china
 **License:** CC BY 4.0 (see Section 6)
 
 ---
