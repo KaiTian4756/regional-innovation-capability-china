@@ -1,0 +1,4 @@
+verification_output/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,23 @@
+﻿Sigma convergence
+Year,Mean,Standard deviation,Coefficient of variation
+2011,10.24,7.55,0.7380
+2012,11.46,8.48,0.7401
+2013,12.62,9.10,0.7215
+2014,13.01,9.60,0.7381
+2015,13.67,10.39,0.7602
+2016,14.51,11.14,0.7678
+2017,15.94,12.54,0.7866
+2018,17.17,13.68,0.7965
+2019,18.62,15.10,0.8110
+2020,20.55,16.55,0.8053
+
+Absolute beta convergence (2011-2020)
+alpha,beta,SE of beta,t value,R-squared,Observations
+0.523247,0.050649,0.068653,0.7378,0.0184,31
+
+Club beta convergence (2011-2020)
+Region,beta,SE of beta,t value,R-squared,Observations
+Eastern,0.092799,0.151470,0.6127,0.0448,10
+Central,-0.223682,0.682907,-0.3275,0.0261,6
+Western,-0.094966,0.118439,-0.8018,0.0604,12
+Northeastern,-0.361759,1.294869,-0.2794,0.0724,3
